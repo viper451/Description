@@ -7,13 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viper451" alt="viper451" /></a> </p>
 
 
-- 🔭 I’m currently working on **Algorithim Data Structure and Backend Development**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **ReactJs**
-
-- 💬 Ask me about **MERN Stack**
+- 🔭 **Full Stack Developer"" at **Deutsche Bank**
 
 - 📫 How to reach me **farhan70413@gmail.com**
 
